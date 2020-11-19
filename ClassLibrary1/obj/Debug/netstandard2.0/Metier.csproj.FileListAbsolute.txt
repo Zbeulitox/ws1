@@ -1,0 +1,9 @@
+D:\Users\simon\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\Metier.deps.json
+D:\Users\simon\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\Metier.dll
+D:\Users\simon\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\Metier.pdb
+D:\Users\simon\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\Metier.csprojAssemblyReference.cache
+D:\Users\simon\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\Metier.AssemblyInfoInputs.cache
+D:\Users\simon\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\Metier.AssemblyInfo.cs
+D:\Users\simon\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\Metier.csproj.CoreCompileInputs.cache
+D:\Users\simon\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\Metier.dll
+D:\Users\simon\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\Metier.pdb
